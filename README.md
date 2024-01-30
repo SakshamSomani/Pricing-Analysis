@@ -10,10 +10,17 @@ Identify key variables affecting pricing, such as make, model, mileage, year of 
 2. Developing a Predictive Model for Estimating Prices
 Create a robust predictive model capable of estimating used car prices based on the identified factors.
 Utilize machine learning techniques to incorporate both current market conditions and historical data for accurate predictions.
-Major Deliverables
+
+![image](https://github.com/SakshamSomani/Pricing-Analysis/blob/main/Media/EDA1.png)
+![image](https://github.com/SakshamSomani/Pricing-Analysis/blob/main/Media/EDA4.png)
+
+ ### [Major Deliverables]([https://github.com/SakshamSomani/ssomani3/tree/main/Data_analysis_project/Movie%20Recommender%20System](https://github.com/SakshamSomani/Pricing-Analysis/blob/main/Final%20Report.pdf))
 1. Report: Insights into the Factors Affecting Car Prices
 A comprehensive report providing detailed insights into the various factors that impact used car prices.
 Analysis of key trends and patterns observed during the study, aiding in a better understanding of market dynamics.
 2. Predictive Model: A Robust Tool for Estimating Prices
 Codebase for the developed predictive model, ensuring transparency and replicability.
 Integration of current market data and historical information for the model's effectiveness.
+
+![image](https://github.com/SakshamSomani/Pricing-Analysis/blob/main/Media/Result1.png)
+![image](https://github.com/SakshamSomani/Pricing-Analysis/blob/main/Media/Result2.png)
