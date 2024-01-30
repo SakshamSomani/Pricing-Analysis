@@ -1,4 +1,4 @@
-# Pricing Analysis Project Readme
+# Pricing Analysis Project in Collaboration with CCC Intelligent Solutions
 ## Project Overview
 
 This GitHub repository contains the code and documentation for a pricing analysis project conducted in collaboration with CCC Intelligent Solutions. The primary focus of this project was to gain insights into the factors influencing used car prices and to develop a predictive model for estimating these prices.
